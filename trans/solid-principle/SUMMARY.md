@@ -1,3 +1,4 @@
++   [Succinctly SOLID 原则教程](README.md)
 +   [零、简介](0.md)
 +   [一、为什么是 SOLID](1.md)
 +   [二、我应该关心 SOLID 嘛？](2.md)
@@ -8,4 +9,3 @@
 +   [七、接口隔离原则](7.md)
 +   [八、依赖反转原则](8.md)
 +   [九、总结](9.md)
-+   [Succinctly SOLID 原则教程](README.md)

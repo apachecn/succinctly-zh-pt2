@@ -1,3 +1,4 @@
++   [Succinctly SQL Azure 教程](README.md)
 +   [一、Azure 上的 SQL 介绍](01.md)
 +   [二、在 Azure 虚拟机上安装和配置 SQL Server](02.md)
 +   [三、迁移到 Azure 虚拟机上的 SQL Server](03.md)
@@ -8,4 +9,3 @@
 +   [八、Azure SQL 数据库的性能考虑](08.md)
 +   [九、Azure SQL 数据库中的安全性](09.md)
 +   [十、Azure SQL 数据库的业务连续性](10.md)
-+   [Succinctly SQL Azure 教程](README.md)
