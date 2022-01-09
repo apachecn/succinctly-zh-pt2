@@ -1,0 +1,8 @@
++   [Succinctly PowerPivot 教程](README.md)
++   [零、简介](0.md)
++   [一、PowerPivot 模型基础](1.md)
++   [二、使用您的 PowerPivot 模型](2.md)
++   [三、分享你的 PowerPivot 模型](3.md)
++   [四、不稳定笔记](4.md)
++   [五、深入：xVelocity 引擎](5.md)
++   [六、附加资源](6.md)
